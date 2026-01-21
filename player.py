@@ -258,10 +258,12 @@ seek_bar.bind('<Leave>', lambda e: seek_bar.place_forget())
 
 
 root.after(100, load_songs)
-хуй
+
+
 
 
 
 
 
 mainloop()
+
